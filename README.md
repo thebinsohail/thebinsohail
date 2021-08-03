@@ -7,9 +7,11 @@ I am a Full-Stack Web developer having good knowledge of front-end and back-end 
 I have developed several web applications from scratch but at the same time, I manage and update the client's existing projects also as I have outstanding debugging skills.
 
 Areas of expertise include:
-- Spring Framework/Node js/Express Js/React Js
-- Web Design -HTML/CSS,Bootstrap/Sass
-- Programming - Java/JavaScript/Python
+- Spring Boot / React JS / Express JS / Node JS
+- MYSQL / MongoDB / Hibernate / JPA 
+- HTML 5 / CSS / Bootstrap  
+- Programming Languages on which I've worked on are: Java / JavaScript / Python
+- Windows / Linux 
 
 
 ---
