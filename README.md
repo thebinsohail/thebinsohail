@@ -2,16 +2,17 @@
 ---
 
 
-I am a Full-Stack Web developer having good knowledge of front-end and back-end techniques for building web applications that match client needs.
+I am a Full-Stack Developer having good knowledge of front-end and back-end techniques for building web applications that match client needs.
 
 I have developed several web applications from scratch but at the same time, I manage and update the client's existing projects also as I have outstanding debugging skills.
 
 Areas of expertise include:
 - Spring Boot / React JS / Express JS / Node JS
 - MYSQL / MongoDB / Hibernate / JPA 
-- HTML 5 / CSS / Bootstrap  
+- HTML 5 / CSS / Bootstrap / JSP
+- Maven / NPM / YARN / Pip  
 - Programming Languages on which I've worked on are: Java / JavaScript / Python
-- Windows / Linux 
+- Operating Systems: Windows / Ubuntu / Arch / Mac 
 
 
 ---
@@ -24,7 +25,7 @@ Areas of expertise include:
 ![Github Follow](https://img.shields.io/github/followers/thebinsohail?style=social)
 
 
-
+---
 
 🧰 Toolbox
 
