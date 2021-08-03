@@ -6,6 +6,12 @@ I am a Full-Stack Developer having good knowledge of front-end and back-end tech
 
 I have developed several web applications from scratch but at the same time, I manage and update the client's existing projects also as I have outstanding debugging skills.
 
+---
+
+![Anas](https://export-download.canva.com/wjqqo/DAEdv-wjqqo/34/0/0001-5277521583.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210803T092505Z&X-Amz-Expires=8045&X-Amz-Signature=df2eba52e34339b3b240cce7b43757a31eb55316e8172318c49b1939c762d9a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Celebrate%2520-%2520Canva%2520Banner.png&response-expires=Tue%2C%2003%20Aug%202021%2011%3A39%3A10%20GMT)
+
+---
+
 Areas of expertise include:
 - Spring Boot / React JS / Express JS / Node JS
 - MYSQL / MongoDB / Hibernate / JPA 
@@ -14,11 +20,7 @@ Areas of expertise include:
 - Programming Languages on which I've worked on are: Java / JavaScript / Python
 - Operating Systems: Windows / Ubuntu / Arch / Mac 
 
-
 ---
-
-![Anas](https://export-download.canva.com/wjqqo/DAEdv-wjqqo/34/0/0001-5277521583.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210803T092505Z&X-Amz-Expires=8045&X-Amz-Signature=df2eba52e34339b3b240cce7b43757a31eb55316e8172318c49b1939c762d9a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Celebrate%2520-%2520Canva%2520Banner.png&response-expires=Tue%2C%2003%20Aug%202021%2011%3A39%3A10%20GMT)
-
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/anasbinsohail?style=social)
