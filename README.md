@@ -2,9 +2,11 @@
 ---
 
 
-I am a Full-Stack Developer having good knowledge of front-end and back-end techniques for building web applications that match client needs.
+Hello, my name is Anas Bin Sohail and I am a software developer with experience in a variety of programming languages and frameworks, including Java, Spring Boot, Hibernate, Node.js, Express.js, and Vue.js.
 
-I have developed several web applications from scratch but at the same time, I manage and update the client's existing projects also as I have outstanding debugging skills. I also do Web-Scraping and Automation.
+I have a strong foundation in object-oriented programming and experience building both back-end and front-end applications. In my previous role, I worked on a team responsible for developing and maintaining a large, distributed software system using Java and Spring Boot. I also have experience with Hibernate, which we use for data persistence. Apart from this I also have experience with cloud platforms such as AWS/GCP etc. 
+
+In my free time, I enjoy exploring new technologies and staying up-to-date with the latest industry trends. This has led me to develop a number of personal projects using Node.js, Express.js, and Vue.js. These projects have allowed me to improve my skills in full-stack development and build modern, responsive web applications.
 
 ---
 
