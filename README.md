@@ -10,7 +10,7 @@ In my free time, I enjoy exploring new technologies and staying up-to-date with 
 
 ---
 
-![Anas](https://i.ibb.co/rb1bgPH/anas-banner.png)
+![Anas](https://filebin.net/0hw4zl8ggvm9v5fq/github.png)
 
 ---
 
